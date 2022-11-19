@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titulo: MyString
+  ano_lancamento: 2022-11-18
+  elenco_atores: MyText
+  comentarios: MyText
+
+two:
+  titulo: MyString
+  ano_lancamento: 2022-11-18
+  elenco_atores: MyText
+  comentarios: MyText
